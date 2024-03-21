@@ -1,1 +1,1 @@
-# Digital-Systems-Lab-HW
+# Digital-Systems-Lab
